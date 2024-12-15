@@ -42,7 +42,7 @@ Ensure the following Python libraries are installed:
 Install the required libraries using:
 ```bash
 pip install -r requirements.txt
-
+```
 ## How to Use
 
 ### 1. **Exploratory Data Analysis**
